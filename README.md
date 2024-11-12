@@ -5,7 +5,7 @@ This plugin makes Shulkers drop more shulker shells.
 **INSTALATION:**
 1. Use one of these options to download MoreShulkerShells plugin:
 - [GitHub releases] https://github.com/JustErikSK/MoreShulkerShells-plugin/releases
-- [Spigot] Available soon
+- [Spigot] https://www.spigotmc.org/resources/moreshulkershells.120758/
 - [CurseForge] Available soon
 - [Modrinth] Available soon
 2. Drop the file in your server's plugins folder and start your server, plugin will automatically load.
