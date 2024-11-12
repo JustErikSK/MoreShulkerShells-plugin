@@ -1,0 +1,6 @@
+name: MoreShulkerShells
+version: 1.0
+main: me.minecraft.plugin.moreShulkerShells.MoreShulkerShells
+api-version: 1.21
+authors: [ JustErikSK ]
+description: Shulkers will drop more shulker shells
