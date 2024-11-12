@@ -4,7 +4,7 @@ This plugin makes Shulkers drop more shulker shells.
 
 **INSTALATION:**
 1. Use one of these options to download MoreShulkerShells plugin:
-- [GitHub releases] Available soon
+- [GitHub releases] https://github.com/JustErikSK/MoreShulkerShells-plugin/releases
 - [Spigot] Available soon
 - [CurseForge] Available soon
 - [Modrinth] Available soon
