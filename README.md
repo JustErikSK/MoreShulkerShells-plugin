@@ -10,4 +10,4 @@ This plugin makes Shulkers drop more shulker shells.
 - [Modrinth] Available soon
 2. Drop the file in your server's plugins folder and start your server, plugin will automatically load.
 
-## Shulkers will drop 3 shulker shells.
+## Shulkers will drop 3-4 shulker shells.
