@@ -1,0 +1,7 @@
+# Configuration file for MoreShulkerShells plugin
+# You can set your own drop amounts here
+# If you set a number that's more/less than the set maximum/minimum, plugin will automatically use the default value
+
+# SHULKER SHELL DROP AMOUNT
+# (Default = 3, Min = 1, Max = 10)
+shulker_shell_drop_amount: 3
