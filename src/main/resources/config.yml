@@ -5,3 +5,7 @@
 # SHULKER SHELL DROP AMOUNT
 # (Default = 3, Min = 1, Max = 10)
 shulker_shell_drop_amount: 3
+
+# Last updated for MoreShulkerShells v1.1.1
+# Version 1.1.1 works for MC versions 1.21 - 1.21.5
+# End of config file
