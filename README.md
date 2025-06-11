@@ -1,5 +1,7 @@
 # MoreShulkerShells Plugin
-This plugin makes Shulkers drop more shulker shells.
+Shulkers will by default drop 3 shulker shells when killed. This can be changed through a configuration file!
+
+You can find detailed information about this plugin on our Wiki https://with-rage-studios-plugins.fandom.com/wiki/More_Shulker_Shells
 
 **INSTALATION:**
 1. Use one of these options to download MoreShulkerShells plugin:
@@ -8,5 +10,3 @@ This plugin makes Shulkers drop more shulker shells.
 - [CurseForge] https://www.curseforge.com/minecraft/bukkit-plugins/moreshulkershells
 - [Modrinth] https://modrinth.com/plugin/more-shulker-shells
 2. Drop the file in your server's plugins folder and start your server, plugin will automatically load.
-
-## Shulkers will drop 3-4 shulker shells.
