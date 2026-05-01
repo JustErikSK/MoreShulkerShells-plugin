@@ -6,5 +6,5 @@
 # (Default = 3, Min = 1, Max = 10)
 shulker_shell_drop_amount: 3
 
-# Version 1.1.9 works for MC versions 26.1 - 26.1.1
+# Version 1.1.9 works for MC versions 26.1 - 26.1.2
 # End of config file
